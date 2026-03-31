@@ -12,4 +12,5 @@ files in this project can be found below.
 code does, please refer to the Annotated Code Document ("AnnotatedCodeDocument_Project3_LoganBaardson_CIVE202.pdf").
 4. To see our complete methods and how we did this project, along with a complete discussion of our tresults, please
 refer to the "WrittenReport_Project3.pdf".
-5. To see a complete timesheet on how our team spent our time on this project, refer to the "Project3_Timesheet.pdf"
+5. To see a complete timesheet on how our team spent our time on this project, refer to the "Project3_Timesheet.pdf".
+6. To see the raw data files, refer to the "NGSIM(in).csv" file and the "NHTS(in).csv" file.
