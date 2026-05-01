@@ -8,7 +8,7 @@ files in this project can be found below.
 "Project #3 gantt chart (1).xlsx" file.
 2. To see the goals, tasks, and deliverables for this project, look at the
 "Project#3_SOW_LoganBaardson_CIVE202.pdf" file.
-3. All of our code is found in the "Project_3_Final_LoganBaardson.ipnyb" file. If you are not sure what the
+3. All of our code is found in the "REAL_Project_3_Final.ipnyb" file. If you are not sure what the
 code does, please refer to the Annotated Code Document ("AnnotatedCodeDocument_Project3_LoganBaardson_CIVE202.pdf").
 4. To see our complete methods and how we did this project, along with a complete discussion of our tresults, please
 refer to the "WrittenReport_Project3.pdf".
